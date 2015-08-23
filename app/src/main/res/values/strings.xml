@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OrmExemple</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_listagem">Listagem</string>
+    <string name="action_init">Tela Inicial</string>
+    <string name="title_activity_listagem">Listagem</string>
+</resources>
