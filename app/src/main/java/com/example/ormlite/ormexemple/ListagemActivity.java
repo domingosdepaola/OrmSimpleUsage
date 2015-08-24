@@ -21,7 +21,7 @@ import org.androidannotations.annotations.EBean;
 import org.androidannotations.annotations.ViewById;
 
 import java.util.List;
-
+//Minha Classe de listagem
 @EActivity(R.layout.activity_listagem)
 public class ListagemActivity extends ActionBarActivity {
 
